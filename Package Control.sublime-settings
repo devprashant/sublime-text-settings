@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Color Highlighter",
+		"Emmet",
+		"Focus File on Sidebar",
+		"Git",
+		"GitGutter",
+		"Gitignore",
+		"Highlight Whitespaces",
+		"LiveReload",
+		"Markdown HTML Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeServer",
+		"Terminal"
+	]
+}
